@@ -1,0 +1,26 @@
+{
+  "name": "dora",
+  "version": "1.0.0",
+  "description": "cl",
+  "main": "index.js",
+  "devDependencies": {
+    "commander": "*",
+    "prompt": "*"
+  },
+  "bin": {
+    "dorag": "bin/dora.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jie51886/dora.git"
+  },
+  "author": "zhongjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jie51886/dora/issues"
+  },
+  "homepage": "https://github.com/jie51886/dora#readme"
+}
